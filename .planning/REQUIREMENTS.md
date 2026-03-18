@@ -105,50 +105,50 @@ Which phases cover which requirements. Updated during roadmap creation.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| CLEAN-01 | Phase 1 | Pending |
-| CLEAN-02 | Phase 1 | Pending |
-| CLEAN-03 | Phase 1 | Pending |
-| CLEAN-04 | Phase 1 | Pending |
-| CLEAN-05 | Phase 1 | Pending |
-| CLEAN-06 | Phase 1 | Pending |
-| CLEAN-07 | Phase 1 | Pending |
-| CLEAN-08 | Phase 1 | Pending |
-| CLEAN-09 | Phase 1 | Pending |
-| CLEAN-10 | Phase 1 | Pending |
-| CONF-01 | Phase 2 | Pending |
-| CONF-02 | Phase 2 | Pending |
-| CONF-03 | Phase 2 | Pending |
-| CONF-04 | Phase 2 | Pending |
-| CONF-05 | Phase 2 | Pending |
-| CONF-06 | Phase 2 | Pending |
-| CONF-07 | Phase 2 | Pending |
-| CHAT-01 | Phase 3 | Pending |
-| CHAT-02 | Phase 3 | Pending |
-| CHAT-03 | Phase 3 | Pending |
-| CHAT-04 | Phase 3 | Pending |
-| CHAT-05 | Phase 3 | Pending |
-| CHAT-06 | Phase 3 | Pending |
-| CHAT-07 | Phase 3 | Pending |
-| MCP-01 | Phase 4 | Pending |
-| MCP-02 | Phase 4 | Pending |
-| MCP-03 | Phase 4 | Pending |
-| MCP-04 | Phase 4 | Pending |
-| MCP-05 | Phase 4 | Pending |
-| MCP-06 | Phase 4 | Pending |
-| MCP-07 | Phase 4 | Pending |
-| MCP-08 | Phase 4 | Pending |
-| SKILL-01 | Phase 5 | Pending |
-| SKILL-02 | Phase 5 | Pending |
-| SKILL-03 | Phase 5 | Pending |
-| SKILL-04 | Phase 5 | Pending |
-| SKILL-05 | Phase 5 | Pending |
-| SKILL-06 | Phase 5 | Pending |
-| API-01 | Phase 6 | Pending |
-| API-02 | Phase 6 | Pending |
-| API-03 | Phase 6 | Pending |
-| API-04 | Phase 6 | Pending |
-| API-05 | Phase 6 | Pending |
-| API-06 | Phase 6 | Pending |
+| CLEAN-01 | Phase 1: Authentication & Persistence Removal | Pending |
+| CLEAN-02 | Phase 1: Authentication & Persistence Removal | Pending |
+| CLEAN-03 | Phase 1: Authentication & Persistence Removal | Pending |
+| CLEAN-04 | Phase 1: Authentication & Persistence Removal | Pending |
+| CLEAN-05 | Phase 1: Authentication & Persistence Removal | Pending |
+| CLEAN-06 | Phase 1: Authentication & Persistence Removal | Pending |
+| CLEAN-07 | Phase 1: Authentication & Persistence Removal | Pending |
+| CLEAN-08 | Phase 1: Authentication & Persistence Removal | Pending |
+| CLEAN-09 | Phase 1: Authentication & Persistence Removal | Pending |
+| CLEAN-10 | Phase 1: Authentication & Persistence Removal | Pending |
+| CONF-01 | Phase 2: Configuration System | Pending |
+| CONF-02 | Phase 2: Configuration System | Pending |
+| CONF-03 | Phase 2: Configuration System | Pending |
+| CONF-04 | Phase 2: Configuration System | Pending |
+| CONF-05 | Phase 2: Configuration System | Pending |
+| CONF-06 | Phase 2: Configuration System | Pending |
+| CONF-07 | Phase 2: Configuration System | Pending |
+| CHAT-01 | Phase 3: Chat Interface Redesign | Pending |
+| CHAT-02 | Phase 3: Chat Interface Redesign | Pending |
+| CHAT-03 | Phase 3: Chat Interface Redesign | Pending |
+| CHAT-04 | Phase 3: Chat Interface Redesign | Pending |
+| CHAT-05 | Phase 3: Chat Interface Redesign | Pending |
+| CHAT-06 | Phase 3: Chat Interface Redesign | Pending |
+| CHAT-07 | Phase 3: Chat Interface Redesign | Pending |
+| MCP-01 | Phase 4: MCP Integration | Pending |
+| MCP-02 | Phase 4: MCP Integration | Pending |
+| MCP-03 | Phase 4: MCP Integration | Pending |
+| MCP-04 | Phase 4: MCP Integration | Pending |
+| MCP-05 | Phase 4: MCP Integration | Pending |
+| MCP-06 | Phase 4: MCP Integration | Pending |
+| MCP-07 | Phase 4: MCP Integration | Pending |
+| MCP-08 | Phase 4: MCP Integration | Pending |
+| SKILL-01 | Phase 5: Skills System | Pending |
+| SKILL-02 | Phase 5: Skills System | Pending |
+| SKILL-03 | Phase 5: Skills System | Pending |
+| SKILL-04 | Phase 5: Skills System | Pending |
+| SKILL-05 | Phase 5: Skills System | Pending |
+| SKILL-06 | Phase 5: Skills System | Pending |
+| API-01 | Phase 6: API Integration | Pending |
+| API-02 | Phase 6: API Integration | Pending |
+| API-03 | Phase 6: API Integration | Pending |
+| API-04 | Phase 6: API Integration | Pending |
+| API-05 | Phase 6: API Integration | Pending |
+| API-06 | Phase 6: API Integration | Pending |
 
 **Coverage:**
 - v1 requirements: 38 total
