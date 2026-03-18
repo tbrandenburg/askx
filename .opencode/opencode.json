@@ -1,0 +1,10 @@
+{
+  "permission": {
+    "read": {
+      "/home/tom/workspace/ai/made/workspace/askx/.opencode/get-shit-done/*": "allow"
+    },
+    "external_directory": {
+      "/home/tom/workspace/ai/made/workspace/askx/.opencode/get-shit-done/*": "allow"
+    }
+  }
+}
