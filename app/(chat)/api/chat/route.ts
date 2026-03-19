@@ -6,9 +6,9 @@ import {
   stepCountIs,
   streamText,
 } from "ai";
+import { getLanguageModel } from "@/lib/ai/configured-provider";
 import { allowedModelIds } from "@/lib/ai/models";
 import { type RequestHints, systemPrompt } from "@/lib/ai/prompts";
-import { getLanguageModel } from "@/lib/ai/providers";
 import { getWeather } from "@/lib/ai/tools/get-weather";
 import { isProductionEnvironment } from "@/lib/constants";
 import { ChatbotError } from "@/lib/errors";
